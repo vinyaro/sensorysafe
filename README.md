@@ -4,8 +4,6 @@
 
 # Execute e implante seu aplicativo do AI Studio
 
-Este contém tudo que você precisa para executar o aplicativo localmente.
-
 ## Executar Localmente
 
 **Pré-requisitos:**  Node.js
@@ -17,3 +15,23 @@ Este contém tudo que você precisa para executar o aplicativo localmente.
 
 ---
 
+## Sobre o SensorySafe
+
+**SensorySafe** é um Medidor Sensorial Sonoro desenvolvido para promover acessibilidade e segurança sensorial.
+
+**O que é?**
+
+Este aplicativo mede e visualiza em tempo real os níveis de som e pressão sonora (dB SPL) do ambiente ao seu redor. Foi especialmente projetado para ajudar pessoas com hipersensibilidade auditiva, incluindo aquelas que convivem com misofonia e hiperacusia, a monitorar e avaliar a segurança de diferentes ambientes.
+
+**Por que é importante?**
+
+Para muitas pessoas, sons cotidianos podem causar desconforto significativo ou até dor. O SensorySafe oferece uma ferramenta objetiva para:
+
+- Identificar ambientes seguros e confortáveis
+- Monitorar níveis de ruído em tempo real
+- Tomar decisões informadas sobre permanência em determinados locais
+- Promover autocuidado e bem-estar sensorial
+
+**Desenvolvimento**
+
+Este projeto foi criado utilizando **Vibe Coding no AI Studio**, demonstrando como a tecnologia pode ser utilizada para desenvolver soluções de acessibilidade essenciais que impactam positivamente a vida de pessoas com necessidades sensoriais específicas.
