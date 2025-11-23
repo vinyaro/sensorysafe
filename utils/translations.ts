@@ -1,0 +1,42 @@
+import { Language } from '../types';
+
+export const translations = {
+  en: {
+    appName: "SensorySafe",
+    description: "Measures ambient noise levels (dB). This is a tool for awareness and not a professional safety device.",
+    start: "Start Monitoring",
+    stop: "Stop",
+    idleMessage: "Click \"Start Monitoring\" to activate the microphone and visualize the sound environment around you.",
+    footer: "Designed for sensory awareness",
+    comfortable: "Comfortable",
+    moderate: "Moderate Noise",
+    loud: "Loud Environment",
+    dbSpl: "dB SPL",
+    overwhelmed: "I'm feeling overwhelmed",
+    calmingAssistant: "Calming Assistant",
+    findingCalm: "Finding calm...",
+    tryAnother: "Try another technique",
+    errorConnect: "Unable to connect to the calming assistant. Please check your API key configuration.",
+    errorThink: "I'm having trouble thinking right now, but remember to breathe deeply.",
+    defaultAdvice: "Take a deep breath. You are safe.",
+  },
+  pt: {
+    appName: "SensorySafe",
+    description: "Mede níveis de ruído ambiente (dB). Ferramenta para conscientização, não é um dispositivo de segurança profissional.",
+    start: "Iniciar Monitoramento",
+    stop: "Parar",
+    idleMessage: "Clique em \"Iniciar Monitoramento\" para ativar o microfone e visualizar o ambiente sonoro.",
+    footer: "Projetado para consciência sensorial",
+    comfortable: "Confortável",
+    moderate: "Ruído Moderado",
+    loud: "Ambiente Barulhento",
+    dbSpl: "dB SPL",
+    overwhelmed: "Estou sobrecarregado",
+    calmingAssistant: "Assistente de Calma",
+    findingCalm: "Buscando calma...",
+    tryAnother: "Tentar outra técnica",
+    errorConnect: "Não foi possível conectar. Verifique sua chave API.",
+    errorThink: "Estou com dificuldade para pensar, mas lembre-se de respirar fundo.",
+    defaultAdvice: "Respire fundo. Você está seguro.",
+  }
+};

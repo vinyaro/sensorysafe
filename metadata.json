@@ -1,0 +1,7 @@
+{
+  "name": "SensorySafe",
+  "description": "A visual sound monitoring tool designed for individuals with autism or sound hypersensitivity. It provides real-time visual feedback on ambient noise levels and includes an AI-powered calming assistant.\n\n---\n\nUma ferramenta de monitoramento visual do som projetada para pessoas com autismo ou hipersensibilidade ao som. Ele fornece feedback visual em tempo real sobre os níveis de ruído ambiente e inclui um assistente de calma alimentado por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
