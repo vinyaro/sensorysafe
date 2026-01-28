@@ -21,7 +21,7 @@
 
 **O que é?**
 
-Este aplicativo mede e visualiza em tempo real os níveis de som e pressão sonora (dB SPL) do ambiente ao seu redor. Foi especialmente projetado para ajudar pessoas com hipersensibilidade auditiva, incluindo aquelas que convivem com misofonia e hiperacusia, a monitorar e avaliar a segurança de diferentes ambientes.
+Este aplicativo mede e visualiza em tempo real os níveis de som e pressão sonora (dB SPL) do ambiente ao seu redor. Foi especialmente projetado para ajudar pessoas com hipersensibilidade auditiva, incluindo aquelas que convivem com hiperacusia, a monitorar e avaliar a segurança de diferentes ambientes.
 
 **Por que é importante?**
 
